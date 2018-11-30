@@ -1,0 +1,10 @@
+[package]
+name = "euler-rust"
+version = "0.1.0"
+authors = ["Michael Bock <michael.bock@coya.com>"]
+
+[dependencies]
+
+[[bin]]
+name = "euler-rust"
+path = "main.rs"
